@@ -3,7 +3,6 @@
 *       DESCRIPTION:Contains Code for a program that demonstrates the
 *       use of open and write call.Writes a string in the file.
 *       Invoke the Executable as a.out
-*       Copyright 2009 Aricent
 ****************************************************************************/
 #include<stdio.h>
 #include<unistd.h>
