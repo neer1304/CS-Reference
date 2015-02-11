@@ -3,7 +3,6 @@
 *	content to destination file 
 *       
 *       Invoke the Executable as a.out
-*       Copyright 2011 Aricent
 ****************************************************************************/
 /* set of header files */
 
