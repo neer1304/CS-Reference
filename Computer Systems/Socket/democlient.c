@@ -3,7 +3,6 @@
 *	DESCRIPTION:Contains Code for a client that will send a string 	
 *	to a server process and exits.
 *	Invoke the Executable as a.out IPAddress PortNo string   
-*	Copyright 2007 Aricent 
 *****************************************************************************/
 #include	<stdio.h>
 #include	<stdlib.h>
