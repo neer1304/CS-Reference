@@ -5,7 +5,6 @@
 *	to the client process .(Shows a typical ITERATIVE SERVER )
 *	Pl. change the value of MYPORT, when you are exceuting
 *	Invoke the Executable as a.out
-*	Copyright 2007 Aricent 
 ****************************************************************************/
 
 
