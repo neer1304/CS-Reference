@@ -11,4 +11,3 @@ print "-20 10"        + 5,  "\n";
 
 print "0x30"          + 0,  "\n";
 
-print "Aricent";
