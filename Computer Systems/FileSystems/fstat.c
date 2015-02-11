@@ -6,7 +6,6 @@
 *	It checks whether the command line args in this code are 
 *	Regular files/directories.
 *       Invoke the Executable as a.out <file1> <file2> ......
-*       Copyright 2010 Aricent
 ***************************************************************************
 */
 #include<stdio.h>
