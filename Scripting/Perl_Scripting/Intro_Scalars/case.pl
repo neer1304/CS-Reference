@@ -4,7 +4,7 @@ use strict;
 
 
 
-my $name = "Aricent";
+my $name = "ABCDE";
 
 print uc($name), "\n";
 print lc($name), "\n";
