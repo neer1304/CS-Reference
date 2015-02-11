@@ -21,7 +21,7 @@ int main()
 {
  FILE* infile = NULL; /* File pointer */
  /* String to be written into the file */
- char *input[SIZE] = {"PRISM\n", "Nalanda\n", "Aricent\n"};
+ char *input[SIZE] = {"Kerala\n", "Rajasthan\n", "Orissa\n"};
  /* Variable to read from the file*/ 
  char output[MAX];
  int fputs_ret = 0; /* Return value from fputs */
