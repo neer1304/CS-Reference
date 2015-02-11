@@ -4,7 +4,6 @@
 *	from a file client process  read that file and sends it over socket  
 *	to the client process .(Shows a typical ITERATIVE SERVER )
 *	Invoke the Executable as a.out
-*	Copyright 2007 Aricent 
 ****************************************************************************/
 
 
