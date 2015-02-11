@@ -2,7 +2,6 @@
 *       DESCRIPTION:Contains Code for a program that demonstrates the
 *       use of  lseek call (Finding the size of a file)
 *       Invoke the Executable as a.out
-*       Copyright 2009 Aricent
 ****************************************************************************/
 #include<stdio.h>
 #include<sys/stat.h>
