@@ -3,7 +3,6 @@
 *	FILENAME : uechos.c
 *	DESCRIPTION:Contains Code for a echo  server , that will accept data	from a client process and  sends  that data back to client, using   UDP
 *	Invoke the Executable as a.out   
-*	Copyright 2007 Aricent 
 *********************************************************************/
 
 
