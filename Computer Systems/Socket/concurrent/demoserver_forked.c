@@ -4,7 +4,6 @@
 *       a string from a client process , prints the string and the 
 *	IP Address of the client .(Shows a typical FORKED SERVER )
 *	Invoke the Executable as a.out   
-*	Copyright 2007 Aricent 
 *********************************************************************/
 
 
