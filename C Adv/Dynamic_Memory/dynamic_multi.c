@@ -33,7 +33,7 @@ int main()
    printf("malloc failure\n");
    exit(EXIT_FAILURE);
   }
-  strncpy(names[index], "Aricent Technologies", MAX - 1);
+  strncpy(names[index], "Seattle Washington USA", MAX - 1);
   //printf("names[%d] = %s\n", index, names[index]);
  }
  
