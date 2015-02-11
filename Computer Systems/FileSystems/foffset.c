@@ -5,7 +5,6 @@
 *	Ensure a file named datafile is available in the current directory
 *	which is having some 15/20 caharacters.
 *	Invoke the Executable as a.out
-*	Copyright 2007 Aricent 
 ****************************************************************************/
 #include<stdio.h>
 #include<unistd.h>
