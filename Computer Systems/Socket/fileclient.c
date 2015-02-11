@@ -4,7 +4,6 @@
 *	from the user and retrive that file from a server process and saves it 
 *	in current directory.
 *	Invoke the Executable as a.out IPAddress PortNo Filename  
-*	Copyright 2007 Aricent 
 *****************************************************************************/
 #include	<stdio.h>
 #include	<stdlib.h>
