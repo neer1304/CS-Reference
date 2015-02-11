@@ -1,4 +1,4 @@
-a=["Hello","Aricent",100,1234]     # declaration of list data type
+a=["Hello","World",100,1234]     # declaration of list data type
 print a
 a[0:2]=[1,12,123]              # will insert given values at specified range
 print a
