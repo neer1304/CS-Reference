@@ -106,7 +106,6 @@ int main()
     line. The program crashes because strtok is trying to change a const */
 
  /* Initializing an pointer to a consant */
-// char *str = "Aricent Technologies Pvt Ltd., Gurgaon Bangalore Chennai."; 
  char *words[MAX]; /* Array of pointers to store the tokenized words */
  int no_of_words = 0; /* Stores the total number of words */
  str_ret ret_value = SUCCESS; /* Return value from function */
