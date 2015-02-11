@@ -3,7 +3,6 @@ FILENAME : uechoc.c
 
 DESCRIPTION:Contains Code for a echo  client , that will accept data from the user(keyboard) and sends  that data  to a echo server process and prints the received data back on the screen .(UDP)
 *	Invoke the Executable as a.out ServerIP ServerPort
-*	Copyright 2007 Aricent 
 *********************************************************************/
 
 #include	<stdio.h>
