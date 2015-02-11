@@ -3,7 +3,6 @@
 *       DESCRIPTION:Contains Code for a program that demonstrates the
 *       use of  open/read/write calls.Copies source to destination 
 *       Invoke the Executable as a.out source destination
-*       Copyright 2009 Aricent
 ****************************************************************************/
 #include<stdio.h>
 #include<fcntl.h>
