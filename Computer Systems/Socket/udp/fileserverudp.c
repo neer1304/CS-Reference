@@ -5,7 +5,6 @@
 *	to the client process .(Uses UDP to break the file into fixed size blocks
 	,except perhaps the last block . )
 *	Invoke the Executable as a.out   
-*	Copyright 2007 Aricent 
 ******************************************************************************/
 
 
