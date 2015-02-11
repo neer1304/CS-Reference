@@ -100,7 +100,7 @@ static str_ret store_words(
 int main()
 {
  /* Initialising an array */
- char str[SIZE] = "Aricent Technologies Pvt Ltd., Gurgaon Bangalore Chennai."; 
+ char str[SIZE] = "Newyork Pasadena Seattle, Gurgaon Bangalore Chennai."; 
  
  /* This mus the done at the end. Uncomment this line and comment the above 
     line. The program crashes because strtok is trying to change a const */
