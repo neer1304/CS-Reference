@@ -3,7 +3,6 @@
 *       use of  lseek/open/read/write etc.Reads the characters and append 
 *	them in the same file.
 *       Invoke the Executable as a.out
-*       Copyright 2009 Aricent
 ****************************************************************************/
 #include<stdio.h>
 #include<sys/stat.h>
