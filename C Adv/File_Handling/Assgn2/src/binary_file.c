@@ -3,13 +3,6 @@
 *  FILE NAME    : binary_file.c
 *
 *  DESCRIPTION  : Demonstrates block reading and writing with binary file
-*
-*  DATE      NAME    REFERENCE          REASON
-*
-*  1-JUN-10  Sibu    PRISM-3 C FG       Initial Creation.
-*
-*  Copyright 2010, Aricent Technologies (Holdings) Ltd
-*
 **************************************************************************/
 
 /*************************************************************************
