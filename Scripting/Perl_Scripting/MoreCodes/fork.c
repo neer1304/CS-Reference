@@ -3,7 +3,6 @@
 *	DESCRIPTION:Contains Code for a program that demonstrates the 
 *	use of fork call
 *	Invoke the Executable as a.out
-*	Copyright 2007 Aricent 
 ****************************************************************************/
 
 #include<sys/types.h>
