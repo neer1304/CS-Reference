@@ -2,8 +2,7 @@
 *       FILENAME : ThreadArgs.c
 *       DESCRIPTION:Contains Code for a program that demonstrates the
 *       use of pthread calls
-*       Invoke the Executable as a.out
-*       Copyright 2007 Aricent
+*       Invoke the Executable as a.out*      
 ****************************************************************************/
 #include<pthread.h>
 #include<stdio.h>
