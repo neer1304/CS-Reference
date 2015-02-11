@@ -5,7 +5,6 @@
 *	to the client process .(Shows a typical THREADED SERVER )
 *	Invoke the Executable as a.out   
 *       You may use the same fileclient, which was used for iterative demo.
-*	Copyright 2007 Aricent 
 ******************************************************************************/
 
 
