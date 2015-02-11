@@ -7,7 +7,7 @@ my $name;
 
 print "$name", "\n";
 
-$name = "Aricent";
+$name = "Arizona";
 
 print "Name : ", "$name", "\n";
 
