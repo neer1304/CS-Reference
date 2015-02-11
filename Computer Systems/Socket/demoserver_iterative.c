@@ -4,7 +4,6 @@
 *       a string from a client process , prints the string and the 
 *	IP Address of the client .(Shows a typical ITERATIVE SERVER )
 *	Invoke the Executable as a.out PortNo  
-*	Copyright 2007 Aricent 
 ****************************************************************************/
 
 
