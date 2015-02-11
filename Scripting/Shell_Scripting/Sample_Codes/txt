@@ -1,0 +1,4 @@
+#!/bin/bash
+mkdir dir
+cd dir
+touch f1

@@ -1,0 +1,15 @@
+CC=gcc
+CFLAGS=-c -Wall -g
+
+../bin/Output: ../obj/array_main.o  ../obj/array_functions1.o
+	$(CC) -o ../bin/output ../obj/array_main.o ../obj/array_functions1.o
+
+../obj/array_main.o :../src/array_main.c ../include/array_header.h
+	$(CC) $(CFLAGS) ../src/array_main.c -I../include/ -o ../obj/array_main.o
+
+../obj/array_functions1.o :../src/array_functions1.c ../include/array_header.h 
+	$(CC) $(CFLAGS) ../src/array_functions1.c -I../include/ -o ../obj/array_functions1.o
+
+clean:
+	rm ../obj/*.o
+	rm ../bin/output

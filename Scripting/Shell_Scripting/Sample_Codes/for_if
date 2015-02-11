@@ -1,0 +1,11 @@
+#! /bin/bash
+#PRINTING THE FILES IN THE CURRENT DIRECTORY
+for i in *
+do 
+    if test -d $i 
+    then
+       echo DIRECTORY $i 
+    else
+	echo $i IS A FILE
+    fi
+done

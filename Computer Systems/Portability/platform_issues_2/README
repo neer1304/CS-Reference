@@ -1,0 +1,24 @@
+This directory contains two sets of programs to demonstrate the 
+issue with endianness
+
+1. First Program
+The file in current directory "endianproblem.c" contains a piece of code
+which demonstrates how endianness impacts a C program.
+Please read the comments provided in the program to understand the issue
+
+
+2. client-server program in the directories "issues_across_machines_..."
+The client server programs in this folder have been created to demonstrate the problem that might happen due to :
+1. big/little endianness
+2. sending of pointers on IPC
+3. different sizes of data types
+Compile one of them(either the client or the server) on a big endian platform and the other one on a little endian machine and see the behaviour of the programs
+
+Read the comments provided in the source code file.
+
+There are two makefiles provided in the directory:
+linuxmake: 
+	use it to create the executables on linux(possibly on little-endian)
+
+solarismake:
+	use it to create the executables on solaris(possibly on big-endian)

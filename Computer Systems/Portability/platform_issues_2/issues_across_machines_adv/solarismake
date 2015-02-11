@@ -1,0 +1,12 @@
+all: tcpserver tcpclient
+
+tcpserver: server.c prototype.h
+	gcc -o tcpserver server.c -lsocket -lnsl
+
+
+tcpclient: client.c prototype.h
+	gcc -o tcpclient client.c -lsocket -lnsl
+
+clean:
+	rm tcpserver
+	rm tcpclient

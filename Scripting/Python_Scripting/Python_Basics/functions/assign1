@@ -1,0 +1,5 @@
+Write a function that takes a numeric value from 1 to 9 and returns its English name (i.e., one, two .). If the input is out of range, return the original value as the name instead.
+
+Taking the subroutine from the above, write a program to take two numbers and 
+add them together, printing the result as .Two plus three equals five..
+(Don't forget to capitalize the first letter!)

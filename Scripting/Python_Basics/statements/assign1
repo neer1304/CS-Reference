@@ -1,0 +1,16 @@
+How Much Effort to Produce Software? 
+
+The following equations are the basic COCOMO estimating model. The input, K, is the number of 1000.s of lines of source; that is total source lines divided by 
+1000. Development Effort, where K is the number of 1000.s of lines of source. 
+E is effort in staff-months.
+			E = 2.4 * K^1:05
+Development Cost, where E is effort in staff-months, R is the billing rate. C is the cost in dollars (assuming 152 working hours per staff-month)
+			C = E * R * 152
+
+Project Duration, where E is effort in staff-months. D is duration in calendar 
+months.
+			D = 2.5 * E^0.38
+Staffing, where E is effort in staff-months, D is duration in calendar months. 
+S is the average staff size.
+			S = E / D
+Evaluate these functions for projects which range in size from 8,000 lines (K = 8) to 64,000 lines (K= 64) in steps of 8. Produce a table with lines of source, Effort, Duration, Cost and Staff size.

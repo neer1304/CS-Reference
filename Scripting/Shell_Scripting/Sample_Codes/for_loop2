@@ -1,0 +1,6 @@
+#PRINTING THE COMMAND LINE ARGS
+for i in $@
+do
+	echo $i
+done
+

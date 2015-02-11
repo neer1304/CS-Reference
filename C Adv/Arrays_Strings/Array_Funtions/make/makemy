@@ -1,0 +1,12 @@
+../bin/Output: ../obj/array_main.o  ../obj/array_functions.o
+	gcc -o ../bin/output ../obj/array_main.o ../obj/array_functions.o
+
+../obj/array_main.o :../src/array_main.c ../include/array_header.h
+	gcc -c -Wall -g ../src/array_main.c -I../include/ -o ../obj/array_main.o
+
+../obj/array_functions.o :../src/array_functions.c ../include/array_header.h 
+	gcc -c -Wall -g ../src/array_functions.c -I../include/ -o ../obj/array_functions.o
+
+clean:
+	rm ../obj/*.o
+	rm ../bin/output

@@ -1,0 +1,12 @@
+all: tcpserver tcpclient
+
+tcpserver: server.c
+	gcc -o tcpserver server.c
+
+
+tcpclient: client.c
+	gcc -o tcpclient client.c
+
+clean:
+	rm tcpserver
+	rm tcpclient

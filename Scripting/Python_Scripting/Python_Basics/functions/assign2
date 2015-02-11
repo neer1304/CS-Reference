@@ -1,0 +1,1 @@
+Write a function called mergedict(dict1,dict2)that determines the merger of two dictionaries. It should return a new dictionary with all the items in both of its arguments. If the same key is used in both dictionary print an appropriate error message and leave those items out of the merger.

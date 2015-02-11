@@ -1,0 +1,9 @@
+There are five programs here:
+1. A user should read the program written in the file "introductionsignal.c" first.
+2. After that he should run the program "basicsignaldemo.c"
+3. Next he should run the program "advancedsignaldemo.c"
+4. "useofsignal.c" contains the program which should be read and executed next.
+5. In the end, "cautionwithsignal.c" should be used.
+
+Read the comments carefully provided at the top of the each file
+Use the "makefile" to compile the programs.
