@@ -3,7 +3,6 @@
 *	DESCRIPTION:Contains Code for a program that demonstrates the 
 *	use of modification of a global variable by multiple threads.
 *	Invoke the Executable as a.out (Link with Linker option -lpthread)
-*	Copyright 2007 Aricent 
 ****************************************************************************/
 #include<stdio.h>
 #include<pthread.h>
